@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gamelib-react-js/static/css/main.60d21134.css",
+    "main.js": "/gamelib-react-js/static/js/main.480b2120.js",
+    "static/js/787.403bec3c.chunk.js": "/gamelib-react-js/static/js/787.403bec3c.chunk.js",
+    "static/media/jumbotron 3.jpg": "/gamelib-react-js/static/media/jumbotron 3.02209ee2b8327b162f97.jpg",
+    "static/media/fortnite.jpg": "/gamelib-react-js/static/media/fortnite.1a0d7f11bec3861d7e1d.jpg",
+    "static/media/jumbotron.jpg": "/gamelib-react-js/static/media/jumbotron.9558af81c43ff7add9bd.jpg",
+    "static/media/csgo.jpg": "/gamelib-react-js/static/media/csgo.77443baa841b0bb5078f.jpg",
+    "static/media/arena_of_valor.png": "/gamelib-react-js/static/media/arena_of_valor.c97cb496cba6e16b37e3.png",
+    "static/media/jumbotron 2.jpg": "/gamelib-react-js/static/media/jumbotron 2.ab62dc8a8e8a23b6ecce.jpg",
+    "static/media/dota2.jpg": "/gamelib-react-js/static/media/dota2.0dba4b103ffe8fc324fe.jpg",
+    "static/media/lol.jpg": "/gamelib-react-js/static/media/lol.8182dd446c9127708dd5.jpg",
+    "static/media/pubg.jpg": "/gamelib-react-js/static/media/pubg.a920c464939aaca60847.jpg",
+    "index.html": "/gamelib-react-js/index.html",
+    "main.60d21134.css.map": "/gamelib-react-js/static/css/main.60d21134.css.map",
+    "main.480b2120.js.map": "/gamelib-react-js/static/js/main.480b2120.js.map",
+    "787.403bec3c.chunk.js.map": "/gamelib-react-js/static/js/787.403bec3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60d21134.css",
+    "static/js/main.480b2120.js"
+  ]
+}
